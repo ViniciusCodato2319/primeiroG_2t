@@ -57,7 +57,7 @@ h1 {
 }
 .menuPrincipal {
    position: absolute;
-   background: rgb(22, 44, 84);
+   background: rgb(107, 11, 28);
    width: 100%;
    height: 45px;
    top: 0;
@@ -85,7 +85,7 @@ li a {
   font-family: 'Courier New', Courier, monospace;
 }
 li a:hover {
-  background: rgb(84, 151, 156);
+  background: rgb(150, 181, 212);
   color: black;
 }
 #aviao {
@@ -134,3 +134,4 @@ li a:hover {
    width: 95%;
    padding: 5px;
 }
+
